@@ -63,9 +63,6 @@ Each building is wired to its own switch and VLAN configuration.
 ## 📷 Project Files
 
 - `university-network.pkt`: Main Cisco Packet Tracer file
-- `network-design-explanation.pdf`: Project explanation and IP/VLAN planning (included)
-- (Optional) `topology.png`: You can add a screenshot of the network topology here
-
 ---
 
 ## 🧰 Tools Used
